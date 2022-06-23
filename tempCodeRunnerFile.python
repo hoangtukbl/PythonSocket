@@ -1,0 +1,3 @@
+oo = "ass"
+telin = "testrttt" + oo + ".json"
+print(telin)
