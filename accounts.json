@@ -2,11 +2,22 @@
     "username": [
         "Ducky",
         "Duck",
-        "Duck123"
+        "Duck123",
+        "tu123",
+        ""
     ],
     "password": [
         "123",
         "123456",
-        "123456"
+        "123456",
+        "tu456",
+        ""
+    ],
+    "fileluutru": [
+        "Ducky.json",
+        "Duck.json",
+        "Duck123.json",
+        "luutru\\tu123.json",
+        "luutru\\.json"
     ]
 }
